@@ -1,0 +1,9 @@
+.env
+node_modules/
+keys.json
+groq_keys.json
+*.bak
+*.bak.*
+logs/
+groq_keys.json
+.env.save
